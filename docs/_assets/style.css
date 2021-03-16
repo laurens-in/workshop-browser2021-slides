@@ -1,0 +1,17 @@
+.reveal h1 {
+    color: aqua;
+}
+
+.reveal p, li {
+    color: lightsalmon;
+}
+
+.reveal button {
+    background-color: lightsalmon;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    box-shadow: none;
+    border: 2px solid aqua;
+    outline: none;
+}
