@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>reveal-md</title>
+    <link rel="shortcut icon" href="./favicon.ico"/>
+    <link rel="stylesheet" href="./dist/reveal.css" />
+    <link rel="stylesheet" href="./dist/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="./css/highlight/zenburn.css" />
+
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template">
+
+# COMPUTATIONAL THINKING 
+## IN COMPOSITION
+</script></section><section ><section data-markdown><script type="text/template">
+# Laurens Inauen
+
+## Artist & Developer
+</script></section><section data-markdown><script type="text/template">
+- BA in Music & Media Arts, *Bern University of the Arts*
+- MA in Contemporary Arts Practice, *Bern University of the Arts*
+- BSc in Computer Science, *Bern University of Applied Sciences*
+  </script></section><section data-markdown><script type="text/template">
+<!-- .slide: data-background="./assets/live-eternal.png" -->
+
+## Generative Black Metal in the Web Browser
+</script></section></section><section ><section data-markdown><script type="text/template">
+## The Medium Is The Message
+\- *Marshall McLuhan*
+
+<aside class="notes"><p>This means two things. First: The medium through which our art expresses itself matters. Writing sheet music is different from producing a CD. Vinyl is different than digital albums. Second: new mediums allow for new kinds of art</p>
+</aside></script></section><section data-markdown><script type="text/template">
+## New Music Through New Technology
+</script></section><section data-markdown><script type="text/template">
+<iframe style="width:80vw; height:80vh" src="https://www.youtube.com/embed/bIPU2ynqy2Y?start=477" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</script></section><section data-markdown><script type="text/template"><button name="button" id="test">Click me</button>
+</script></section></section></div>
+    </div>
+
+    <script src="./dist/reveal.js"></script>
+
+    <script src="./plugin/markdown/markdown.js"></script>
+    <script src="./plugin/highlight/highlight.js"></script>
+    <script src="./plugin/zoom/zoom.js"></script>
+    <script src="./plugin/notes/notes.js"></script>
+    <script src="./plugin/math/math.js"></script>
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath
+        ]
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"transition":"fade","transitionSpeed":"fast","highlight-theme":"agate"}, queryOptions);
+    </script>
+
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>
