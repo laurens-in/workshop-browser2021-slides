@@ -28,14 +28,29 @@ revealOptions:
 
 ---
 
-## The Medium Is The Message
-\- *Marshall McLuhan*
+# What is a Browser?
 
-Note: This means two things. First: The medium through which our art expresses itself matters. Writing sheet music is different from producing a CD. Vinyl is different than digital albums. Second: new mediums allow for new kinds of art
+Note: not interesting from a technical standpoint. Yeah its some engines that run html, css & js. What's more important is that its one of many portals to the internet, the one we associate the most with it. So much so that it becomes synonymous. The internet in turn is one of the most important and influential technologies in our modern age. It has huge impacts on society, culture and even politics, so for art not to reflect on that would be absurd. Art never exists outside of a context.
 
 ----
 
-## New Music Through New Technology
+A piece of software that renders HTML, CSS and runs JavaScript
+
+Note: Its not important right now, we will come back to it, but JavaScript is what we are going to be concerned with as artists.
+
+----
+
+## The Medium Is The Message
+\- *Marshall McLuhan*
+
+Note: The effect is independent to the program. The effect of the medium is vast, the effect of the content is incidental. https://www.youtube.com/watch?v=UoCrx0scCkM
+This means two things. First: The medium through which our art expresses itself matters. Writing sheet music is different from producing a CD. Vinyl is different than digital albums. Second: new mediums allow for new kinds of art.
+This is something that **happens** to your art, but media artists seize on that potential.
+A medium can be a new technology.
+
+----
+
+### New Music Through New Technology
 
 ----
 
