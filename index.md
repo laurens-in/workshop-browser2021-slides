@@ -26,6 +26,8 @@ revealOptions:
 
 ## Generative Black Metal in the Web Browser
 
+Note: Interested in algorithmic composition, generative music.
+
 ---
 
 # What is a Browser?
@@ -38,15 +40,19 @@ A piece of software that renders HTML, CSS and runs JavaScript
 
 Note: Its not important right now, we will come back to it, but JavaScript is what we are going to be concerned with as artists.
 
-----
+---
+
+# Why?
+
+Why we as artists should care about the browser.
 
 ## The Medium Is The Message
 \- *Marshall McLuhan*
 
-Note: The effect is independent to the program. The effect of the medium is vast, the effect of the content is incidental. https://www.youtube.com/watch?v=UoCrx0scCkM
+Note: The effect of the TV is independent to the program. The effect of the medium is vast, the effect of the content is incidental. https://www.youtube.com/watch?v=UoCrx0scCkM
 This means two things. First: The medium through which our art expresses itself matters. Writing sheet music is different from producing a CD. Vinyl is different than digital albums. Second: new mediums allow for new kinds of art.
 This is something that **happens** to your art, but media artists seize on that potential.
-A medium can be a new technology.
+A medium can be a new technology. **Media Art** can teach us about media.
 
 ----
 

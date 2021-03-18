@@ -9,7 +9,7 @@ npm install -g reveal-md
 you can then host the slides like this:
 
 ```bash
-reveal-md index.md --css style.css
+reveal-md index.md --css assets/style.css
 ```
 
 build static website:
