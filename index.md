@@ -205,7 +205,7 @@ Note: We might ask yourself how does this affect those three concepts which benj
 
 <audio
     controls controlsList="nodownload"
-    src="/assets//darkthrone.mp3">
+    src="./assets/darkthrone.mp3">
         Your browser does not support the
         <code>audio</code> element.
 </audio>
