@@ -1,9 +1,9 @@
-.reveal h1 {
-    color: aqua;
+.reveal h1, h2, h3 {
+    color: lightsalmon;
 }
 
 .reveal p, li {
-    color: lightsalmon;
+    color: aqua;
 }
 
 .reveal button {
@@ -14,4 +14,12 @@
     box-shadow: none;
     border: 2px solid aqua;
     outline: none;
+}
+
+.reveal blockquote {
+    background-color: aqua;
+}
+
+.reveal blockquote p {
+    color: black;
 }
