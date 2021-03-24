@@ -64,13 +64,13 @@ Note: Go to 7:56 for question about question content doesn't matter
 
 The medium **shapes** the message.
 
-Note: So what McLuhan essentially means is that the medium shapes the message and has influence beyond the content of the message. If we believe this to be true this to be true then we have to draw two conclusions about that as artists.
+Note: So what McLuhan essentially means is that the medium shapes the message and has influence beyond the content of the message. If we believe this to be true then we have to draw two conclusions about that as artists.
 
 ----
 
 1. The medium through which we express our art matters.
 
-Note: I think we can all agree with that, a simple example a vinyl record is different from a digital streams because the medium not only leaves traces through its material but also the medium allows to be consumed in different ways. A vinyl record often listened to linearly and at length, a digital stream gives the listener more control, so he might skip tracks or listen to them in a different order.
+Note: I think we can all agree with that, a simple example a vinyl record is different from a digital streams because the medium not only leaves traces through its material but also the medium allows to be consumed in different ways. A vinyl record often listened to linearly and at length, a digital stream gives the listener more control, so he might skip tracks or listen to them in a different order. A vinyl you listen at home, a digital stream you might listen on the train.
 
 ----
 
@@ -80,7 +80,7 @@ Note: This is quite obvious of course, electronic music can only exist because w
 
 ----
 
-This is what **media art** tries to explore.
+Lets look at some **media art**.
 
 ----
 
@@ -88,13 +88,13 @@ This is what **media art** tries to explore.
 
 **Random Access Music**
 
-Note: Paik looks at what it really is that makes tape produce sound. Its a playback head moving over a magnetic tape, the fact that we use to go in just one direction at one specific speed is just a convention. We can do it, and it offers a lot, but  we can also choose not do it and instead explore all possibilities of the medium. If we want to look at how to approach the browser, we should look at its medium-message relationship first.
+Note: Paik looks at what it really is that makes tape produce sound. Its a playback head moving over a magnetic tape, the fact that we use to go in just one direction at one specific speed is just a convention. We can do it, and it offers a lot, but  we can also choose not do it and instead explore all possibilities of the medium. If we want to look at how the browser makes sound, we should look at its medium-message relationship first.
 
 ----
 
 ![Medium-Message-Relationship](assets/medium-message.svg)
 
-Note: We can see here three layers: the browser, which is an environment to execute code, which is what produces sound. What this means is that our sound will always be a direct consequence of code, which is why I will talk primarily about this relationship today. Not because the browser is not interesting, but because the layers that the browser adds to our artwork are of political or social nature, not directly compositional, and we need this compositional foundation of what it means to express art in code.
+Note: We can see here three layers: the browser, which is an environment to execute code, which is what produces sound. What this means is that our sound will always be a direct consequence of code, which is why I will talk primarily about this relationship today. Not because the browser is not interesting, but because the layers that the browser adds to our artwork are of political or social nature, not directly compositional, and we need this compositional foundation of what it means to express art through code.
 
 ----
 
@@ -117,7 +117,7 @@ Note: This is not unique for the browser, code doesn't need to run in the browse
 
 **The Work of Art in the Age of Mechanical Reproduction**
 
-Note: In the famous essay TWAITAOMR, Walter Benjamin talks about the transformation that art undergoes as it enters this new paradigm of mechanical reproduction.
+Note: To understand the importance of the browser as a medium for generative music, we will look at another great shift in history, where technology changed the way we were able to produce art. In the famous essay "The Work Of Art In The Age ...", Walter Benjamin talks about the transformation that art undergoes as it enters this new paradigm of mechanical reproduction.
 
 ----
 
@@ -129,11 +129,7 @@ Note: In the famous essay TWAITAOMR, Walter Benjamin talks about the transformat
 
 Walter Benjamin, 1935
 
-Note: So in this new age art looses its aura. But Benjamin is by no means mourning the loss of the aura. The aura is an expression of distance, authority and authenticity of an artwork. In the age of manual reproduction, the reproduction is essentially a forgery and has no authenticity, because authenticity is outside of the sphere of manual or technical reproduction. Aura seems to be only possible through authenticity.
-
-----
-
-<!-- .slide: data-background="./assets/mona-lisa.jpg" style="background-color: black;" -->
+Note: So in this new age art looses its aura.
 
 ----
 
@@ -141,7 +137,7 @@ Note: So in this new age art looses its aura. But Benjamin is by no means mourni
 
 **AUTHENTICITY + DISTANCE = AUTHORITY**
 
-Note: But Benjamin is by no means mourning the loss of the aura. The aura is an expression of distance, authority and authenticity of an artwork. In the age of manual reproduction, the reproduction is essentially a forgery and has no authenticity, because authenticity is outside of the sphere of manual or technical reproduction. Distance, no matter how near the work of art is, is also an expression of aura. Since the traditional art work is a unique existence in time and space, this distance also exists in both dimensions. Think about standing in front of the Mona Lisa, no matter how close you can get, you can never touch it and even if you could, would you feel like touching its aura? Also the art is fixed in space, and you have to go there and “meet” it, this establishes also a form of hierarchy. The mechanically reproduced artwork however “meets the beholder half way”. The traditional art work is also determined by the history to which it is a subject in the time of its existence. This can too create a distance in time between the art and its beholder.
+Note: But Benjamin is by no means mourning the loss of the aura. The aura is an expression of distance, authority and authenticity of an artwork. In the age of manual reproduction, the reproduction is essentially a forgery and has no authenticity, because authenticity is outside of the sphere of manual or technical reproduction. Distance is a result of the unique existence in time and space of the traditional art work and expresses itself in both of these dimensions. The artwork is fixed in space, and you have to go there and "meet" it, this establishes a form of hierarchy. But not only that, think about a traditional artwork in a museum: There is always a distance between the visitors on one side and the artwork on the other side. The mechanically reproduced artwork on the other hand "meets the beholder half way". The traditional art work is also determined by the history to which it is a subject in the time of its existence. This creates a kind of temporal distance between the art and its beholder.
 
 ----
 
@@ -149,7 +145,7 @@ Note: But Benjamin is by no means mourning the loss of the aura. The aura is an 
 
 **MASS CULTURE**
 
-Note: What happens through this possibility of reproduction is essentially that for the first time in history mass culture becomes possible. That is **THE** change. Art is no longer for a few elites, it becomes available to the people. If we take a closer look to what Benjamin writes in the preface of his essay, we can see why this is so important to him:
+Note: Through reproduction art looses this authenticity, distance and authority and for the first time in history mass culture becomes possible. This is important for Benjamin from a Marxist point of view:
 
 ----
 
@@ -171,15 +167,15 @@ Note: I would argue that we are in the age of - not only the digital reproductio
 
 ----
 
-How do we conceptualize **generative music**?
+How do we conceptualize **generative art**?
 
-Note: The idea of an abstract piece of art which exists only through its specific instantiation, which is unique in time and space. This way of thinking isn't necessarily new, it has been around in art for quite some time. Not in the dodecaphonic music of Schönberg and his followers, not in the serialism of Messiaen or the algorithmic composition of König or Xenakis. We these ideas in early performance art, for example the sound-walks of Max Neuhaus: The composition exists in the form of a route which the composer knows and walks with his audience. Within that route the sounds are certainly predictable, but ultimately - from a compositional perspective - random. A big topic in performance art is acutally reproduction: some argue that performance can only be “reproduced” in a way that it loses its uniqueness. By means of preservation - a recording, a film - or by means of reenactment - essentially theater. Through both these methods it is essentially no longer performance art.
+Note: For me it's the idea of an abstract piece of art which exists only through its specific instantiation, which is unique in time and space - to use Benjamins terminology. These ideas aren't really new though, they have existed in art for quite some time. Not in the dodecaphonic music of Schönberg and his followers, not in the serialism of Messiaen or the algorithmic composition of Hiller & Issacson. We find it first in early performance art, for example the sound-walks of Max Neuhaus: The composition exists in the form of a route which the composer knows and walks with his audience. Within that route the sounds are certainly predictable, but ultimately - from a compositional perspective - random. It is interesting to note that reproduction - for the sake of e.g. documentation - is a big topic in performance art. Some argue that performance art could only be "reproduced" in a way that it loses its uniqueness. By means of preservation - a recording, a film - or by means of reenactment - essentially theater - by both of which it is no longer performance art as a result.
 
 ----
 
 Why draw the line here and now?
 
-Note: Generative music up until now exists almost exclusively in an exhibition space. This means I have the go to the museum, sit on an uncomfortable chair or bench and listen to the generative piece for about 10 minutes with people walking in and out only conceptually being able to grasp the extent of the composition, then going home, mostly disappointed. What good is an endless composition if I can only listen to it one time? This bothered me so much - that i could not listen to generative music in the way i prefer to listen music - that i made live-eternal. so maybe now you start seeing where i'm going at.
+Note: So if these ideas have existed that long even before real-time computer-generated music was a thing - which of course it has been for quite a while now - why do I draw the line here and now? Generative music - up until now - exists almost exclusively in an exhibition space. This usually means I have the go to the museum, sit on an uncomfortable chair or bench and listen to the generative piece for about 10 minutes with people walking in and out only conceptually being able to grasp the extent of the composition, then going home, mostly disappointed (this is essentially how Benjamin described *traditional* art in 1935). What good is an *endless* composition if I can only listen to it one time? This bothered me so much - that there was no generative music that I could listen to in the way I like to enjoy music - that I made live-eternal. Maybe now you start to see where this is going:
 
 ----
 
@@ -189,13 +185,13 @@ Note: Generative music up until now exists almost exclusively in an exhibition s
 
 Alex Bainter
 
-Note: This quote by artist and developer (behind generative.fm) Alex Bainter explains what has changed: for the first time generative art has the possibility move into mass culture. It has that possibility because we don't just have the devices but with the modern browser, we now have an environment which allows artists to produce and distribute (important) real-time generative systems quite easily. I say quite easily in contrast to what we would need to do if we wouldn't a browser. And looking at generative music apps like brian enos, they won't be mass culture anytime soon.
+Note: This quote by artist and developer (behind generative.fm) Alex Bainter explains what has changed: for the first time generative art has the possibility move into mass culture. It has that possibility because we don't just have the devices but with the modern browser, we now have an environment which allows artists to produce and distribute (important) real-time generative systems quite easily. I say quite easily in contrast to what we would need to do if we didn't have a modern browser.
 
 ----
 
 **authenticity? distance? authority?**
 
-Note: We might ask yourself how does this affect those three concepts which benjamin introduces? I cannot give the answers to that but I can give some insight into what it means in my work.
+Note: We might ask yourself how does this affect those three concepts which Benjamin introduces? I cannot give the answers to that but I can give some insight into what it means in my work.
 
 ----
 
@@ -217,7 +213,7 @@ Note: Black metal is essentially a quest to bring authenticity to the reproducib
 ## Part III
 **Generative Music & Authority**
 
-Note: One last thing i would like to discuss is the relationship between generative music and authority. For this I will introduce a new line of thinking:
+Note: But what about the authority of the generative artwork? For this I will introduce a new line of thinking:
 
 ----
 
@@ -231,7 +227,8 @@ Note: This is a very strong quote that has been discussed extensively, applied t
 
 **art / power**
 
-Note: If we agree that art can be used to manipulate emotions - this is done all the time, commericals? movies? - and we have seen where it can lead to - for example fascism, then we have a serious problem as artists. Power creates authority to use Benjamins terminology. If we as artists have power over the listeners emotions -  this power can be abused by ourselves or others, like the nazis used Beethoven. This has led to more and more abstract art, as a means to cede this power. And this could be it, we could be fine with that? Does anyone here know Pierre Schaeffer?
+Note: If we agree that art can be used to manipulate emotions - this is done all the time, commercials, movies, etc. - and we have seen where it can lead to - for example fascism, then we have a serious problem as artists. Power in terms creates **authority**. If we as artists have power over the listeners emotions -  this power can be abused by ourselves or others, like the nazis used Beethoven. Another aspect of this was the question of whether or not art is capable of expressing adequately the horrors of the second world war, if art is able to express genuine emotion at all? This has led to more and more abstract art in the post war era, which was a means for artists to cede some of this power and authority. And this could be it, art has to be abstract, there is no going back. Enter Pierre Schaffer:
+
 
 ----
 
@@ -243,7 +240,7 @@ Note: If we agree that art can be used to manipulate emotions - this is done all
 
 Pierre Schaeffer
 
-Note: This is of course a statement of opinion - but its an opinion that I can intuitively understand. You don't have to agree with Schaeffer here, but it struck a nerve with me and to be honest I can't fully express why. Maybe because I have been to conditioned to like traditional music? Maybe it is exciting to explore hierarchy, harmony, tonality and modality in music. Maybe refraining from doing so is like speaking a language that no one else speaks. I honestly can't give you an answer. But you can see the fundamental dilemma if you were to accept both of these thoughts - Adornos and Schaeffers. The only way out I found as an artist is generative music. The answer for me at least was generative music. With generative music I can move in and out of *DoReMi* as a merely incidental side effect, I can abstract the patterns behind manipulative music and reveal them as the result of a simple set of rules and not profound, overwhelming, human emotion. Generative music can be a way to give up power and authority. And to come back to why we are all here, the browser can also play a role in that:
+Note: This is of course a statement of opinion - but its an opinion that I can intuitively sympathize with. You don't have to agree with Schaeffer here, but it struck a nerve with me and to be honest I can't fully express why. Maybe because I have been to conditioned to like traditional music? Maybe it is exciting to explore hierarchy, harmony, tonality and modality in music? Maybe refraining from doing so is like speaking a language that no one else speaks. I honestly can't give you an answer, but you can see the fundamental dilemma if you were to accept both of these thoughts - Adornos and Schaeffers. The only way out of this dilemma I found as an artist is generative music. With generative music I can move in and out of *DoReMi* as a merely incidental side effect, I can abstract the patterns behind manipulative music and reveal them as the result of a simple set of rules and not profound, overwhelming, human emotion. Generative music can be a way to give up power and authority. And to come back to why we are all here, the browser can also play a role in that:
 
 ---
 
