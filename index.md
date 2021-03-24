@@ -240,10 +240,49 @@ Note: If we agree that art can be used to manipulate emotions - this is done all
 
 Pierre Schaeffer
 
-Note: This is of course a statement of opinion - but its an opinion that I can intuitively sympathize with. You don't have to agree with Schaeffer here, but it struck a nerve with me and to be honest I can't fully express why. Maybe because I have been to conditioned to like traditional music? Maybe it is exciting to explore hierarchy, harmony, tonality and modality in music? Maybe refraining from doing so is like speaking a language that no one else speaks. I honestly can't give you an answer, but you can see the fundamental dilemma if you were to accept both of these thoughts - Adornos and Schaeffers. The only way out of this dilemma I found as an artist is generative music. With generative music I can move in and out of *DoReMi* as a merely incidental side effect, I can abstract the patterns behind manipulative music and reveal them as the result of a simple set of rules and not profound, overwhelming, human emotion. Generative music can be a way to give up power and authority. And to come back to why we are all here, the browser can also play a role in that:
+Note: This is of course a statement of opinion - but its an opinion that I can intuitively sympathize with. You don't have to agree with Schaeffer here, but it struck a nerve with me and to be honest I can't fully express why. Maybe because I have been to conditioned to like traditional music? Maybe it is exciting to explore hierarchy, harmony, tonality and modality in music? Maybe refraining from doing so is like speaking a language that no one else speaks. I honestly can't give you an answer, but you can see the fundamental dilemma if you were to accept both of these thoughts - Adornos and Schaeffers. The only way out of this dilemma I found as an artist is generative music. With generative music I can move in and out of *DoReMi* as a merely incidental side effect, I can abstract the patterns behind manipulative music and reveal them as the result of a simple set of rules and not profound, overwhelming, human emotion. Generative music can be a way to give up power and authority. And to come back to why you are reading this, the browser can also play a role in this...
 
 ---
 
-**Browser, Free Software, Blibla**
+**open**
 
-Note: if are art becomes code we enter the political sphere of code.
+Note: The browser is by design a very open environment. JavaScript is a just-in-time compiled scripting language, which means that essentially because I receive the script and not some obscure binary that just does something on my device. (There is obscured JavaScript but I will not get into that). This means that we no longer - as is the case in almost all other settings for generative music - need to trust the composer. Because even in the museum setting the composer has total authority - is what I'm hearing really generative music? This comes down to an element of trust that we need to have in the composer, because authority without trust is oppression - in my view. In the browser this kind of black box of the generative system is revealed and even if the code is unreadable or if I can't read code, I at least know that the code is executed on my device, in real time. (This might seem silly but for me this is actually conceptually important). Some of you might noticed that I wrote open, not open source, this is because we should not use open source.
+
+----
+
+**free software <3**
+
+Note: We should use free software. Because while the two terms almost describe the same thing in terms of code - most open source code is free software - there is a huge conceptual difference. While open source focuses only on practical aspects and is essentially a capitalistic appropriation of the free software movement, the latter takes an ethical stance about the way we should write and use software.
+
+----
+
+
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+
+----
+
+>We campaign for these freedoms because everyone deserves them. With these freedoms, the users (both individually and collectively) control the program and what it does for them. 
+
+----
+
+>When users don’t control the program, we call it a “nonfree” or “proprietary” program. The nonfree program controls the users, and the developer controls the program; this makes the program an instrument of **unjust power**.
+
+GNU Foundation
+
+Note: the programmer has power over the user, this power is abused so we should reject it. Sounds familiar right? 
+
+----
+
+free your code by using a free software license!
+
+Note: I'm done here, lets go look at some code :)
+
+----
+
+
+
+
